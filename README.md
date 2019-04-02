@@ -4,6 +4,7 @@ This web app is a prototype developed at the [Single Digital Gateway](https://eu
 It is meant only for pitching magic purposes, not as a technical proof of concept.
 
 Coded with React. No back-end. Mobile first.
+Development environment setup with Nodejs hackathon starter.
 
 The voice-recognition / text input feature is set to react to the word 'form'. Only works in chrome.
 Speech-to-text is activated by a click anywhere on the screen (body). Try it and see what happens! ;)
